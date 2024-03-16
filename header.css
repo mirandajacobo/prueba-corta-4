@@ -1,0 +1,11 @@
+header{
+    padding: 40px, 80px, 9px, 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 3px;
+}
+.Imagen{
+    width: 42px;
+    height: 38px;
+}
